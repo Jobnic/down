@@ -1,3 +1,6 @@
-# Job Nic opening
+# Job Nic opening page
 
-Just for nothing
+Here is just a page to say Job Nic is opening up.
+This page is hosted in Github pages.
+
+[Page](https://neotrinost.github.io/jobnic-opening)
