@@ -1,6 +1,5 @@
-# Job Nic opening page
+# Down
 
-Here is just a page to say Job Nic is opening up.
-This page is hosted in Github pages.
+When **Jobnic** become down, this page will be up.
 
-[Page](https://neotrinost.github.io/jobnic-opening)
+Just for some problems.
